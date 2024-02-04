@@ -1,7 +1,7 @@
 # Microsoft Power BI Data Analyst Professional Certificate Repository
 
 ## About the Course
-This repository is dedicated to my work and progress in the Microsoft Power BI Data Analyst Professional Certificate program. This specialization is designed to equip learners with the in-demand business intelligence skills necessary to become job-ready as a Power BI analyst in less than 5 months. No prior experience is required.
+This repository is dedicated to my work and progress in the Microsoft Power BI Data Analyst Professional Certificate program. This specialization is designed to equip learners with the in-demand business intelligence skills necessary to become a Power BI analyst in less than 5 months.
 
 ### Specialization Outcome
 - Professional-level training from Microsoft.

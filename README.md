@@ -7,7 +7,7 @@ This repository is dedicated to my work and progress in the Microsoft Power BI D
 - Professional-level training from Microsoft.
 - Portfolio-ready projects demonstrating proficiency.
 - An employer-recognized certificate from Microsoft.
-- Qualification for in-demand job titles: Business Intelligence Analyst, Business Data Analyst, Power BI Analyst.
+- Qualification for in-demand job titles: Business Intelligence Engineer, Data Analyst and Power BI Analyst.
 
 ### Discount Available
 For details on available discounts for this course, please refer to the [official course page](#).

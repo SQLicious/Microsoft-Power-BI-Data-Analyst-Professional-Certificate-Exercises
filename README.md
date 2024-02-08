@@ -31,8 +31,15 @@ For details on available discounts for this course, please refer to the [officia
 - Rating: 4.2/5 (197 ratings)
 
 ### [Course 5: Data Analysis and Visualization with Power BI](/Course5)
-- Duration: 29 hours
-- Rating: 4.6/5 (94 ratings)
+- Duration: 29 hours , Rating: 4.6/5 (94 ratings)
+#### In this course, I learned how to:
+
+- Design and format reports and dashboards with Power BI visuals
+- Navigate and export reports and dashboards
+- Perform advanced analytics with Power BI
+- Undertstand the AI visuals in Power BI and when to use them
+
+
 
 ### [Course 6: Creative Designing in Power BI](/Course6)
 - Duration: 20 hours

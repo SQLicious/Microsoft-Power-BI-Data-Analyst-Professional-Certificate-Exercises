@@ -25,7 +25,7 @@ Click on the links for each course below to access the solution files for exerci
 - Duration: 18 hours
 - Rating: 4.7/5 (1,091 ratings)
 
-### [Course 2: Harnessing the Power of Data with Power BI](/(https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/2.%20Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI))
+### [Course 2: Harnessing the Power of Data with Power BI](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/2.%20Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI)
 - Duration: 16 hours
 
 

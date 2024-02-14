@@ -54,7 +54,9 @@ For details on available discounts for this course, please refer to the [officia
 - Duration: 36 hours
 #### Activities and Exercises completed
  - 1: Learn to configure and format table/column properties in Power BI Desktop for improved data model clarity and accurate insights.
- - 2: Create a common date table in Power BI to enhance your data analysis and visualization by effectively managing time-related data
+ - 2: Create a common date table in Power BI to enhance your data analysis and visualization by effectively managing time-related data.
+ - 3: Disable the automatic summarization of sales in Adventure Works and create an explicit measure using DAX or Power BI’s quick measures.
+   
 
 ## Repository Structure
 Each folder in this repository corresponds to a course in the specialization. Within each folder, you will find my projects, exercises, and notes that reflect my learning and application of the course material.

@@ -29,15 +29,15 @@ Click on the links for each course below to access the solution files for exerci
 - Duration: 16 hours
 
 
-### [Course 3: Extract, Transform and Load Data in Power BI](/Course3)
+### [Course 3: Extract, Transform and Load Data in Power BI](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/Extract%2C%20Transform%20and%20Load%20Data%20in%20Power%20BI)
 - Duration: 20 hours
 
 
-### [Course 4: Data Modeling in Power BI](/Course4)
+### [Course 4: Data Modeling in Power BI](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/Data%20Modeling%20in%20Power%20BI)
 - Duration: 26 hours
 
 
-### [Course 5: Data Analysis and Visualization with Power BI](/Course5)
+### [Course 5: Data Analysis and Visualization with Power BI](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/5.%20Data%20Analysis%20and%20Visualization%20with%20Power%20BI)
 - Duration: 29 hours
 - Completed 20 Quizzes and 7 graded assignments
 #### In this course, I learned how to:
@@ -49,15 +49,15 @@ Click on the links for each course below to access the solution files for exerci
 
 
 
-### [Course 6: Creative Designing in Power BI](/Course6)
+### [Course 6: Creative Designing in Power BI](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/6.%20Creative%20Designing%20in%20Power%20BI)
 - Duration: 20 hours
 
 
-### [Course 7: Deploy and Maintain Power BI Assets and Capstone project](/Course7)
+### [Course 7: Deploy and Maintain Power BI Assets and Capstone project](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/7.%20Deploy%20and%20Maintain%20Power%20BI%20Assets%20and%20Capstone%20project)
 - Duration: 25 hours
 - Rating: 4.0/5 (25 ratings)
 
-### [Course 8: Microsoft PL-300 Exam Preparation and Practice](/Course8)
+### [Course 8: Microsoft PL-300 Exam Preparation and Practice](https://github.com/SQLicious/Microsoft-Power-BI-Data-Analyst-Professional-Certificate-Exercises/tree/main/8.Microsoft%20PL-300%20Exam%20P%26P)
 - Duration: **36** hours
 #### Week2 Activities and Exercises completed
  - 1: Learn to configure and format table/column properties in Power BI Desktop for improved data model clarity and accurate insights.

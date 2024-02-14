@@ -1,7 +1,13 @@
 # Microsoft Power BI Data Analyst Professional Certificate Repository
 
-## About the Course
-This repository is dedicated to my work and progress in the Microsoft Power BI Data Analyst Professional Certificate program. This specialization is designed to equip learners with the in-demand business intelligence skills necessary to become a Power BI analyst in less than 5 months.
+## Overview
+This repository highlights my progress in the **Microsoft Power BI Data Analyst Professional Certificate** program, designed to impart critical business intelligence skills necessary for excelling as a Power BI analyst in less than five months.
+
+## Philosophy for Taking the Course
+As a data engineer proficient in the Azure stack, expanding my skills within the Microsoft ecosystem was a strategic move. Already certified in Tableau, I identified the value of mastering Power BI to gain a competitive edge in organizations that favor the Azure-Microsoft stack for their BI tools. This realization motivated me to delve into the Power BI specialization.
+
+## Achievements and PL-300 Certification
+Initiated in December 2023 with a two-month completion target, this intensive Power BI program involved me deeply in all its aspects—exercises, quizzes, practice tests, and dashboard creation to bolster my portfolio. This effort has enhanced my business intelligence capabilities, establishing me as a well-rounded data professional, poised for opportunities in any data-centric organization.
 
 ### Specialization Outcome
 - Professional-level training from Microsoft.

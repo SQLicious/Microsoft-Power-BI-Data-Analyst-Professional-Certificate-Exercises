@@ -19,6 +19,7 @@ Initiated in December 2023 with a two-month completion target, this intensive Po
 For details on available discounts for this course, please refer to the [official course page](#).
 
 ## Course Modules
+Click on the links for each course below to access the solution files for exercises completed within that specific course
 
 ### [Course 1: Preparing Data for Analysis with Microsoft Excel](/Course1)
 - Duration: 18 hours

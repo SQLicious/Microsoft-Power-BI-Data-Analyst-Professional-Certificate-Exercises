@@ -60,6 +60,7 @@ For details on available discounts for this course, please refer to the [officia
  - 5: Apply DAX knowledge in Power BI to add a calculated table to a dataset.
  - 6: Creating a reporting Hierarchy
  - 7: Implement index columns in Power Query to structure datasets and enhance DAX query efficiency in Power BI.
+ - 8: Optimize the Adventure Works dataset in Power BI by refining data types, pruning rows/columns, and enhancing relationships to boost model performance.
 
 
 

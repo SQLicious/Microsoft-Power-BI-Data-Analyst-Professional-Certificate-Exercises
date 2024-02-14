@@ -56,6 +56,13 @@ For details on available discounts for this course, please refer to the [officia
  - 1: Learn to configure and format table/column properties in Power BI Desktop for improved data model clarity and accurate insights.
  - 2: Create a common date table in Power BI to enhance your data analysis and visualization by effectively managing time-related data.
  - 3: Disable the automatic summarization of sales in Adventure Works and create an explicit measure using DAX or Power BI’s quick measures.
+ - 4:
+ - 5: Apply DAX knowledge in Power BI to add a calculated table to a dataset.
+
+
+
+
+
    
 
 ## Repository Structure

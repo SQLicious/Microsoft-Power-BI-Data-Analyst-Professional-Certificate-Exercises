@@ -20,18 +20,18 @@ For details on available discounts for this course, please refer to the [officia
 
 ### [Course 2: Harnessing the Power of Data with Power BI](/Course2)
 - Duration: 16 hours
-- Rating: 4.5/5 (355 ratings)
+
 
 ### [Course 3: Extract, Transform and Load Data in Power BI](/Course3)
 - Duration: 20 hours
-- Rating: 4.4/5 (212 ratings)
+
 
 ### [Course 4: Data Modeling in Power BI](/Course4)
 - Duration: 26 hours
-- Rating: 4.2/5 (197 ratings)
+
 
 ### [Course 5: Data Analysis and Visualization with Power BI](/Course5)
-- Duration: 29 hours , Rating: 4.6/5 (94 ratings)
+- Duration: 29 hours
 - Completed 20 Quizzes and 7 graded assignments
 #### In this course, I learned how to:
 
@@ -44,7 +44,7 @@ For details on available discounts for this course, please refer to the [officia
 
 ### [Course 6: Creative Designing in Power BI](/Course6)
 - Duration: 20 hours
-- Rating: 4.3/5 (40 ratings)
+
 
 ### [Course 7: Deploy and Maintain Power BI Assets and Capstone project](/Course7)
 - Duration: 25 hours
@@ -52,7 +52,8 @@ For details on available discounts for this course, please refer to the [officia
 
 ### [Course 8: Microsoft PL-300 Exam Preparation and Practice](/Course8)
 - Duration: 36 hours
-- Rating: 4.7/5 (23 ratings)
+#### Activities and Exercises completed
+ Activity: Learn to configure and format table/column properties in Power BI Desktop for improved data model clarity and accurate insights.
 
 ## Repository Structure
 Each folder in this repository corresponds to a course in the specialization. Within each folder, you will find my projects, exercises, and notes that reflect my learning and application of the course material.

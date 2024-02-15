@@ -71,10 +71,10 @@ Click on the links for each course below to access the solution files for exerci
  - 
 #### Week3 Activities and Exercises completed
 
-- Apply visualization techniques in Power BI to format and configure visualizations effectively.
-- Enhance visualization appearance with conditional formatting in Power BI.
-- Upgrade report appearance and functionality by adjusting page settings in Power BI.
-  These three activities were combined in one file "Wk3_Sales-Categorical-Analysis"
+- 1: Apply visualization techniques in Power BI to format and configure visualizations effectively.
+- 2: Enhance visualization appearance with conditional formatting in Power BI.
+- 3: Upgrade report appearance and functionality by adjusting page settings in Power BI.
+  Hands on activities 1- 3 were combined in one file "Wk3_Sales-Categorical-Analysis"
 - Incorporate engaging custom visuals into Power BI reports for enhanced interactivity.
 - Utilize the Play Axis visualization in Power BI for dynamic time series analysis.
 - Streamline report aesthetics and consistency by exporting and importing themes in Power BI.
